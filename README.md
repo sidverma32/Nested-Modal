@@ -15,6 +15,13 @@
 - Close functionality closes the latest modal in the stack
 - Rsponsive Design
 
+### Steps to run in local
+1. Clone or Download the zip file of this repo.
+2. Unzip and open folder in VSCode (recommended).
+3. Open terminal and run `npm install`.
+4. Run `npm start` to run the project locally at port `3000`.
+5. Application will open in your default browser listening: http://localhost:3000
+
 ### Folder structure
 - `index.js`
 - `App.js`
